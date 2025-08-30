@@ -1,40 +1,43 @@
-# LogiCraft-Labs
-
 # LogiCRAFT Labs 🔬⚡
 *Logic + Craftsmanship – The Art of Data Science*
 
-Welcome to **LogiCRAFT Labs**, a collection of data-driven projects where I 
-experiment, analyze, and share insights with a storytelling-first approach.  
-Each **Lab** is designed as a mini case study with **clean datasets, 
-Jupyter notebooks, business insights, and visual storytelling**.
+Welcome to **LogiCRAFT Labs**, my experimental data science workspace where I 
+analyze real-world datasets, extract insights, and build storytelling visuals.  
+
+This repository is meant to show discipline, consistency, and the mindset of a 
+**data storyteller** who connects analytics with business impact.
 
 ---
 
-## 📂 Labs
-1. **Lab 1 – EV Adoption vs Charging Infra Readiness**  
-   How prepared is India’s charging infra for the EV boom?  
-   → [View Notebook](labs/Lab1_EV_Adoption/notebooks/)  
+## 📂 Current Labs
 
-2. **Lab 2 – TBD (coming soon)**  
-   ...
+### Lab 1 – EV Adoption vs Charging Infra Readiness 🚗⚡
+- **Dataset:** State/UT-wise EV adoption & charging infra (2025)
+- **Goal:** Understand India’s readiness for the EV revolution  
+- **Outputs:**  
+  - Clean dataset  
+  - Jupyter Notebook with analysis & charts  
+  - Insights report (for LinkedIn carousel post)  
+
+→ [View Lab1](labs/Lab1_EV_Adoption)
 
 ---
 
 ## 🧰 Tech Stack
-- Python (Pandas, Matplotlib, Seaborn, Plotly)
-- Power BI / Tableau
-- SQL
-- GitHub for version control
+- Python: Pandas, Matplotlib, Seaborn, Plotly  
+- SQL, Excel, Power BI  
+- GitHub for version control  
 
 ---
 
 ## ✨ About LogiCRAFT
-LogiCRAFT is my personal data lab brand.  
-It’s about turning **numbers into narratives** and showing how **data 
-drives business strategy**.
+LogiCRAFT = *Logic + Craftsmanship*  
+It’s about turning **numbers into narratives** and showing how data drives business strategy.
 
 ---
 
 ## 📬 Connect
 - LinkedIn: [Vikram Sen](https://www.linkedin.com/in/vikram-sen-741bab228)
+- GitHub: [YourUsername](https://github.com/YourUsername)
+
 - GitHub: [YourUsername](https://github.com/YourUsername)
